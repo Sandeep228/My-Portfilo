@@ -1,0 +1,163 @@
+[
+
+  {
+    "name": "Instagram Clone",
+    "desc": "Instagram clone built using react with firebase authentication.",
+    "image": "insta",
+    "category": "react",
+    "links": {
+      "view": "https://instagram-geekyants.netlify.app/",
+      "code": "https://github.com/Sandeep228/Instagram-Clone"
+    }
+  },
+  {
+    "name": "CodeAbly",
+    "desc": "Realtime Coding Collaboration Platform built with Ably Spaces.",
+    "image": "codeably",
+    "category": "mern",
+    "links": {
+      "view": "https://code-ably.vercel.app/",
+      "code": "https://devpost.com/software/codeably"
+    }
+  },
+  {
+    "name": "Nimbus 2023",
+    "desc": "Leetcode clone made with Python-Shell and Codemirror.",
+    "image": "nimbus",
+    "category": "mern",
+    "links": {
+      "view": "https://nimbus-2023.vercel.app/",
+      "code": "https://devpost.com/software/nimbus-2023"
+    }
+  },
+  {
+    "name": "MindAIginite",
+    "desc": "Mental health detection and wellbeing platform.",
+    "image": "mental",
+    "category": "ai",
+    "links": {
+      "view": "https://mindaiginite.netlify.app/",
+      "code": "https://github.com/Sandeep228/MediHacks-"
+    }
+  },
+  {
+    "name": "CardioCare",
+    "desc": "Health disease detection, appointment scheduling and wellbeing platform.",
+    "image": "heart",
+    "category": "ai",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=ljAJZELDG6U",
+      "code": "https://github.com/Sandeep228/CardioCare-Frontend"
+    }
+  },
+  {
+    "name": "Tech-Tonic",
+    "desc": "Tech stack recommendor made with fine-tuning GPT-3.",
+    "image": "techtonic",
+    "category": "ai",
+    "links": {
+      "view": "https://tech-tonic-frontend.netlify.app/",
+      "code": "https://github.com/Sandeep228/Tech-Tonic"
+    }
+  },
+  {
+    "name": "Fundify",
+    "desc": "Clone of Patreon- Project shortlisted in Accenture hackathon.",
+    "image": "original",
+    "category": "mern",
+    "links": {
+      "view": "https://fundify-frontend.vercel.app/",
+      "code": "https://github.com/Sandeep228/Fundify-Frontend"
+    }
+  },
+  {
+    "name": "FitPulse",
+    "desc": "A fitness tracker app made utilizing Google Fitness API and Node.JS",
+    "image": "fitpulse",
+    "category": "mern",
+    "links": {
+      "view": "https://fitness-tracker-chi.vercel.app/",
+      "code": "https://github.com/Sandeep228/Fitness-Tracker-"
+    }
+  },
+  {
+    "name": "Animal Rescue Hub",
+    "desc": "A protal to manage animal rescue requests and Breed Reconition with Tensorflow.",
+    "image": "animalrescue",
+    "category": "ai",
+    "links": {
+      "view": "https://animal-rescue-hub-4c676.web.app/",
+      "code": "https://github.com/Sandeep228/AnimalRescueHub"
+    }
+  },
+  {
+    "name": "Grievance Portal",
+    "desc": "A protal where users can file complaints and get real time updates via registered email. ",
+    "image": "grievance",
+    "category": "mern",
+    "links": {
+      "view": "https://grievance360.vercel.app/",
+      "code": "https://github.com/Sandeep228/GrievancePortal"
+    }
+  },
+  {
+    "name": "SyncBoard",
+    "desc": "Realtime drawing tool made with Ably and Node.JS",
+    "image": "syncboard",
+    "category": "mern",
+    "links": {
+      "view": "https://syncboard.vercel.app/",
+      "code": "https://devpost.com/software/syncboard"
+    }
+  },
+  {
+    "name": "Pawsome Partners",
+    "desc": "Animal adoption platform with Node.JS and MongoDB.",
+    "image": "pawsome",
+    "category": "mern",
+    "links": {
+      "view": "https://pawsome-partners.onrender.com/",
+      "code": "https://devpost.com/software/pawsome-partners"
+    }
+  },
+  {
+    "name": "EcoSavvy",
+    "desc": "Carbon Footprint Calculator made with Climatiq API.",
+    "image": "ecosavvy",
+    "category": "react",
+    "links": {
+      "view": "https://eco-savvy-score.vercel.app/",
+      "code": "https://devpost.com/software/ecosavvy-score"
+    }
+  },
+  {
+    "name": "SpendWise",
+    "desc": "Expense Tracker made with Speechly and Chart.JS",
+    "image": "spendwise",
+    "category": "react",
+    "links": {
+      "view": "https://expense-tracker-three-eta.vercel.app/",
+      "code": "https://devpost.com/software/spendwise-kc17mu"
+    }
+  },
+  {
+    "name": "NoteSphere",
+    "desc": "Note taking website made with React.JS and Grafbase (GraphQL).",
+    "image": "notesphere",
+    "category": "react",
+    "links": {
+      "view": "https://notesphereai.netlify.app/",
+      "code": "https://devpost.com/software/notesphere"
+    }
+  },
+  {
+    "name": "Role Based Access Control",
+    "desc": "Implementation of RBAC in a website where admin only has access to certain routes and can perform some special actions",
+    "image": "rbac",
+    "category": "backend",
+    "links": {
+      "view": "https://feedback-role-portal.netlify.app/",
+      "code": "https://github.com/Sandeep228/Feedback-Frontend"
+    }
+  }
+]
